@@ -11,6 +11,7 @@ This repo contains several items to build the current prototype of the open-sour
 
 ## Code
 Before you begin, you need the ESP-IDF installed on your computer. Please visit the [Espressif website](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/) for more information on installation.
+The current code takes 100 frequency measurements and enters deep-sleep for 1min, this can of course be changes. Also, the code isn't beautiful and I apologize but it will get better with time.
 
 ## Hookup schematics
 <img src="Images/schematic.png" width="700">
