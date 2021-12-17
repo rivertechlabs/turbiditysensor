@@ -1,0 +1,38 @@
+menu "esp32-freqcount-example Configuration"
+
+config F_FREQ_SIGNAL_GPIO
+    int "F Frequency signal GPIO number"
+    range 0 34
+    default 4
+    help
+        GPIO number (IOxx) from which to read frequency signal.
+
+        Some GPIOs are used for other purposes (flash connections, etc.) and cannot be used.
+
+config N_FREQ_SIGNAL_GPIO
+    int "N Frequency signal GPIO number"
+    range 0 34
+    default 18
+    help
+        GPIO number (IOxx) from which to read frequency signal.
+
+        Some GPIOs are used for other purposes (flash connections, etc.) and cannot be used.
+config SAMPLING_WINDOW_GPIO
+    int "Sampling window GPIO number"
+    range 0 34
+    default 17
+    help
+        GPIO number (IOxx) which is used internally to provide the pulse counter with a sampling window.
+        
+        Some GPIOs are used for other purposes (flash connections, etc.) and cannot be used.
+
+        GPIOs 35-39 are input-only so cannot be used.
+ 
+config LED_GPIO
+    int "LED GPIO number"
+    range 0 34
+    default 2
+    help
+        GPIO number (IOxx) connected to LED, to show incoming frequency signal visually.
+
+endmenu
