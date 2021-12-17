@@ -13,6 +13,7 @@ This repo contains several items to build the current prototype of the open-sour
 Before you begin, you need the ESP-IDF installed on your computer. Please visit the [Espressif website](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/) for more information on installation.
 
 ## Hookup schematics
+<img src="Images/schematic.png" width="700">
 
 ## Contact
 For questions, please email me at droujko@ifu.baug.ethz.ch or @rivertechjess on Twitter :bird:
