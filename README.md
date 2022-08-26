@@ -1,4 +1,9 @@
 # :cyclone:turbiditysensor
+## News!
+
+**This sensor was published in Scientific Reports! Read an [Open-source, low-cost, in-situ turbidity sensor for river network monitoring here](https://www.nature.com/articles/s41598-022-14228-4.epdf?sharing_token=cyUjQXGA580BT96PZ3YG99RgN0jAjWel9jnR3ZoTv0OX8suukScp-om3npRI-9yHRu_IZlkYQE1BVdYvvL0vDxBGDfr8sI7F2l-Z1-pe-oVAVnkSKqac9C03GKGG5Jwydy4lDJZvCDPdijmWYlu6RFAzK-AAFhSjDVT-taU_3Ic%3D).**
+
+-----------------------------------------
 ## Introduction
 This repo is dedicated to the open-source turbidity sensor. More info can be found here:
 - https://rivertechlabs.org/
