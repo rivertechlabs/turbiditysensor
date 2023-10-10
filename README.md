@@ -1,4 +1,8 @@
 # :cyclone:turbiditysensor
+## A note on versions:
+
+**This sensor is prototype 2.0 (or "first version"). The newest prototype 3.0 (or "version Ötz-T") is found in this [repo](https://github.com/rivertechlabs/suspendedsedimentsensor).**
+
 ## News!
 
 **This sensor was published in Scientific Reports! Read an [Open-source, low-cost, in-situ turbidity sensor for river network monitoring here](https://www.nature.com/articles/s41598-022-14228-4.epdf?sharing_token=cyUjQXGA580BT96PZ3YG99RgN0jAjWel9jnR3ZoTv0OX8suukScp-om3npRI-9yHRu_IZlkYQE1BVdYvvL0vDxBGDfr8sI7F2l-Z1-pe-oVAVnkSKqac9C03GKGG5Jwydy4lDJZvCDPdijmWYlu6RFAzK-AAFhSjDVT-taU_3Ic%3D).**
